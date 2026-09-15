@@ -1,0 +1,2 @@
+package ClassNowCheckedExceptionTest_specific_unchecked_exception_becomes_specific_checked_exception;
+public class A extends IllegalArgumentException {}

@@ -1,0 +1,2 @@
+package SealedHierarchyExtensibilityTest_method_now_final_in_sealed_class_with_exported_non_sealed_descendant;
+			sealed class B extends A permits C {}

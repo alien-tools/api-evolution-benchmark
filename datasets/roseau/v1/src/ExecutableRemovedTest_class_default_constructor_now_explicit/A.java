@@ -1,0 +1,2 @@
+package ExecutableRemovedTest_class_default_constructor_now_explicit;
+public class A {}

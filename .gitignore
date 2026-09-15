@@ -1,0 +1,6 @@
+target/
+working-dir/
+*.iml
+.idea/
+.vscode/
+.DS_Store

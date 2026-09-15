@@ -1,0 +1,2 @@
+package FormalTypeParameterAddedTest_class_bounded_param_added_to_non_generic;
+public class A {}

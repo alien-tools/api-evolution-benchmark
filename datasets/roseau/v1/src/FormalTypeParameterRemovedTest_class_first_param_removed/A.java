@@ -1,0 +1,2 @@
+package FormalTypeParameterRemovedTest_class_first_param_removed;
+public class A<T> {}

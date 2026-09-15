@@ -1,0 +1,5 @@
+package ExecutableRemovedTest_default_method_removed_in_interface;
+
+			public interface I {
+			    default void m1() {}
+			}

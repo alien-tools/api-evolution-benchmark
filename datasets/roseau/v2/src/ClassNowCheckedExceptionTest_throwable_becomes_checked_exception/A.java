@@ -1,0 +1,2 @@
+package ClassNowCheckedExceptionTest_throwable_becomes_checked_exception;
+public class A extends Exception {}

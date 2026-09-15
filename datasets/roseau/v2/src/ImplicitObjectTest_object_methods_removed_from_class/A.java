@@ -1,0 +1,2 @@
+package ImplicitObjectTest_object_methods_removed_from_class;
+public class A {}

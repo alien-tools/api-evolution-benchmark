@@ -1,0 +1,2 @@
+package MethodReturnTypeChangedTest_inherited_members_are_type_parameter_substituted_jdk;
+public class A extends java.util.ArrayList<String> {}

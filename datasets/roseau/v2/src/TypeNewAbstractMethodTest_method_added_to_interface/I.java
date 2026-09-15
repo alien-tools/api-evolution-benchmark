@@ -1,0 +1,5 @@
+package TypeNewAbstractMethodTest_method_added_to_interface;
+
+			public interface I {
+				void m();
+			}

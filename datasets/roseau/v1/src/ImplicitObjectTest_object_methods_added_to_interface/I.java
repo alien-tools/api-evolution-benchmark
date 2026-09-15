@@ -1,0 +1,2 @@
+package ImplicitObjectTest_object_methods_added_to_interface;
+public interface I {}

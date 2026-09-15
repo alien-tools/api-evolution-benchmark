@@ -1,0 +1,5 @@
+package ExecutableRemovedTest_class_default_constructor_removed;
+
+			public class A {
+				public A(int i) {}
+			}

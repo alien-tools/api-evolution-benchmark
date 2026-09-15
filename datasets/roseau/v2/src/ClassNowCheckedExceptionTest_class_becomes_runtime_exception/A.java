@@ -1,0 +1,2 @@
+package ClassNowCheckedExceptionTest_class_becomes_runtime_exception;
+public class A extends RuntimeException {}

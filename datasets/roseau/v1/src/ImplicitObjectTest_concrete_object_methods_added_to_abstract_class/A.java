@@ -1,0 +1,2 @@
+package ImplicitObjectTest_concrete_object_methods_added_to_abstract_class;
+public abstract class A {}

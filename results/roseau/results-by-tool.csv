@@ -1,0 +1,10 @@
+tool;scope;tp;fp;fn;precision;recall;f1
+roseau;breaking;257;2;2;0.9923;0.9923;0.9923
+roseau;source;242;2;2;0.9918;0.9918;0.9918
+roseau;binary;134;25;0;0.8428;1.0000;0.9147
+japicmp;breaking;220;96;39;0.6962;0.8494;0.7652
+japicmp;source;205;111;39;0.6487;0.8402;0.7321
+japicmp;binary;131;43;3;0.7529;0.9776;0.8506
+revapi;breaking;235;79;24;0.7484;0.9073;0.8202
+revapi;source;216;87;28;0.7129;0.8852;0.7898
+revapi;binary;127;55;7;0.6978;0.9478;0.8038

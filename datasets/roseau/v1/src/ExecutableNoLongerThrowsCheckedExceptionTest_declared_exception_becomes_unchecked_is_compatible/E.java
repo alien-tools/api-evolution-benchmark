@@ -1,0 +1,2 @@
+package ExecutableNoLongerThrowsCheckedExceptionTest_declared_exception_becomes_unchecked_is_compatible;
+			public class E extends Exception {}

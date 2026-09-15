@@ -1,0 +1,5 @@
+package ExecutableRemovedTest_class_constructor_now_protected_default;
+
+			public class A {
+				protected A() {}
+			}

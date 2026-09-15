@@ -1,0 +1,2 @@
+package ClassNowCheckedExceptionTest_class_becomes_specific_checked_exception;
+public class A {}

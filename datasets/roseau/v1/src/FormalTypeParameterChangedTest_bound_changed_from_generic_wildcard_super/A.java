@@ -1,0 +1,2 @@
+package FormalTypeParameterChangedTest_bound_changed_from_generic_wildcard_super;
+public class A<T extends java.util.List<?>> {}

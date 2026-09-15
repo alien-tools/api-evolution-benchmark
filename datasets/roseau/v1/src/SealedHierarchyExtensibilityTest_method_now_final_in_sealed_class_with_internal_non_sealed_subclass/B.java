@@ -1,0 +1,2 @@
+package SealedHierarchyExtensibilityTest_method_now_final_in_sealed_class_with_internal_non_sealed_subclass;
+			non-sealed class B extends A {}

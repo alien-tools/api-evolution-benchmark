@@ -1,0 +1,5 @@
+package ExecutableParameterGenericsChangedTest_generic_method_wildcard_added;
+
+			public class A {
+				public <T> void m(java.util.List<? extends T> l) {}
+			}
